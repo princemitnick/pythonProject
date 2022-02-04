@@ -15,15 +15,17 @@ print(0o10)
 
 print(0b10)
 
-print(int('0110',2))
+print(int('0110', 2))
 
 print(None)
 
-print(True) ; print(False) ;
+print(True)
+print(False)
 print(bool(1.3))
-print(bool(0.0)) ; print(bool(-1))
+print(bool(0.0))
+print(bool(-1))
 
-print(5==5)
+print(5 == 5)
 
 if True:
     print("It's true")
@@ -31,10 +33,10 @@ if True:
 n = 5
 k = 5
 
-if n==k:
+if n == k:
     print(True)
 else:
     print(False)
-nom=None
+nom = None
 
 
