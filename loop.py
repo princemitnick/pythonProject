@@ -17,4 +17,4 @@ while nom!='prince':
     print(nom)
     if nom=='prince':
         print('Well done.')
-
+    break
